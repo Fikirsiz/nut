@@ -1,0 +1,8 @@
+tqdm
+bs4
+Image
+google-api-python-client
+google_auth_oauthlib
+urllib3
+colorama
+# PyQt5
